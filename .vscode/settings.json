@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.autoReplies": {
+    
+    },
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.hg": false,
+        "**/Thumbs.db": false
+    }
+}
