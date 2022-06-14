@@ -6,5 +6,35 @@
         "**/.DS_Store": false,
         "**/.hg": false,
         "**/Thumbs.db": false
-    }
+    },
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    },
+    "files.simpleDialog.enable": true,
+    "workbench.list.automaticKeyboardNavigation": false,
+    "workbench.editor.autoLockGroups": {
+        "interactive": true,
+        "imagePreview.previewEditor": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "mainThreadWebview-markdown.preview": true
+    },
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.defaultBinaryEditor": "default",
+    "workbench.editor.splitOnDragAndDrop": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.settings.useSplitJSON": true,
+    "search.useGlobalIgnoreFiles": true,
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.automationProfile.linux": {
+    
+    },
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.tabs.separator": " ."
 }
